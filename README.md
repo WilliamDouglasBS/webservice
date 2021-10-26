@@ -2,8 +2,6 @@
 
 Acionamento e controle dos verbos via HTTP
 
-LojaVirtual.com.br - Teste prático de PHP
-
 Acesse o CRUD utilizando os verbos HTTP pelo Insomnia ou Postman
 
 Links da API:
