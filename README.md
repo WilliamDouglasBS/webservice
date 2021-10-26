@@ -4,7 +4,7 @@ Acionamento e controle dos verbos via HTTP
 
 Acesse o CRUD utilizando os verbos HTTP pelo Insomnia ou Postman
 
-Necessário far-se-a o TOKEN para o acesso: 
+Necessário far-se-á TOKEN para o acesso: 
 
 Links da API:
 
