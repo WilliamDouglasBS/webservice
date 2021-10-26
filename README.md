@@ -4,9 +4,9 @@ Acionamento e controle dos verbos via HTTP
 
 Acesse o CRUD utilizando os verbos HTTP pelo Insomnia ou Postman
 
-Links da API:
-
 TOKEN para o acesso:HQyq3V*Oowr4iZA
+
+Links da API:
 
 https://clickdados.com/webservice/usuarios/cadastrar/
 
